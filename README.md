@@ -2,7 +2,6 @@
 
 **Course:** Python with AI  
 **Submitted By:** Varenya Kushwaha 
-**Submission Date:** October 2026  
 
 ---
 
